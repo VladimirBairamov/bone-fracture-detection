@@ -8,7 +8,7 @@ export const Container = styled.div`
 `;
 
 export const Logo = styled.div`
-  background-image: url("/images/logo.png");
+  background-image: url("./images/logo.png");
   background-size: contain;
   width: ${pxToRem(242)};
   height: ${pxToRem(65)};

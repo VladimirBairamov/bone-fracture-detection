@@ -132,7 +132,7 @@ Error generating stack: `+s.message+`
   border-radius: 1.25rem;
   padding: 2.5rem 3rem;
 `,L_=Ue.div`
-  background-image: url("/images/logo.png");
+  background-image: url("./images/logo.png");
   background-size: contain;
   width: ${is(242)};
   height: ${is(65)};
